@@ -32,3 +32,5 @@ This project aims to solve that by building a **smart, adaptable, and intuitive 
 - **ML Model**: Random Forest (trained on historical traffic data)
 - **Automation**: Cron jobs on Ubuntu
 - **Cloud**: (Optional) AWS for scalability and deployment
+
+Demonstration Video Link : https://drive.google.com/file/d/1DBC4VhnrT4gRKvKCbvC2fJj2lKVPCtyy/view?usp=drive_link
